@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Ora Updates</title>
+    <link>https://github.com/aurelienfvre/ora-updates</link>
+    <description>Signed Ora browser updates for macOS.</description>
+    <item>
+      <title>Ora 0.2.15</title>
+      <pubDate>Mon, 26 Oct 2026 14:12:19 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/aurelienfvre/ora-updates/releases/download/ora-v0.2.15/Ora-0.2.15-macOS-arm64.zip" length="176150034" type="application/octet-stream" sparkle:edSignature="2LUgPfI3Bx/UuBdVGIsWNtAVJA2XybPK07cE6geKJhyQ4Fv/RNOIj+MX09sMoz5Os/8xoOUq0ZQiDvX5nXRqCw=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: pNIXg9HlTkYoUxbaXn68zDZ7r/lluGUcJCnjdmw11GtMqDlNhm/uwK7ZCLh/PLhhyW1xY+YrQPPL0WEZiJNQAg==
+length: 1166
+-->
