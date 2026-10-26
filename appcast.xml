@@ -6,15 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/aurelienfvre/ora-updates</link>
     <description>Signed Ora browser updates for macOS.</description>
     <item>
-      <title>Ora 0.2.16</title>
-      <pubDate>Mon, 26 Oct 2026 15:09:24 GMT</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+      <title>Ora 0.2.17</title>
+      <pubDate>Mon, 26 Oct 2026 15:40:21 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/aurelienfvre/ora-updates/releases/download/ora-v0.2.16/Ora-0.2.16-macOS-arm64.zip" length="176151777" type="application/octet-stream" sparkle:edSignature="Hr21k4NfWHURRTFHTwHX4mpQnDdvBqF2woOnobiKOkjJ/5SP1a6HBf0laKjlPGEAoLC7oZWILTeLQuNdX3WpBw=="></enclosure>
+      <enclosure url="https://github.com/aurelienfvre/ora-updates/releases/download/ora-v0.2.17/Ora-0.2.17-macOS-arm64.zip" length="176155299" type="application/octet-stream" sparkle:edSignature="p93Yf3ysh5hyCeUDsms2FJPjvFHZbV8axpb0YSaadZ7NHrwc7OCWVxU6rJ4ENo/fXPW7a413gxWGgh+2fKEtDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WG751SUgCPiw7UGAkj06hs5f3Lavputvxz1SBMX/LSvXX3mKZ5CMyvwFixSsuxaYCAIxnYy7WTKE5v3Dnu2PAQ==
+edSignature: jKLSlU6soKpw39NuMK6UZpgh1vDVI++HhDW2opo9aa0VA88BfEK9yFBwmYENjtMSZI/M2Xq53z2VtwwqqparCQ==
 length: 1166
 -->
